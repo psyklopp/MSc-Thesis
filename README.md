@@ -30,4 +30,4 @@ A study by VISA [3] tackles double spending in offline transaction by leveraging
 - Learn about Lattice-based Blind Signatures
 - How you can fit them into the original paper
 - Security analysis
-- How to use TEE to protect against Sybil attack
+- How to use TEE/TPM to protect against Sybil attack - [TPM - Microsoft](https://learn.microsoft.com/en-us/windows/security/hardware-security/tpm/trusted-platform-module-overview)
