@@ -5,7 +5,7 @@ A place to keep material/studies/resources for my thesis. Will share the updates
 ### 📆 Updates
 
 Oct 26 
-- ✔️ The request is still being processed (Thesis Topic Description)
+- ✔️ ~~The request is still being processed (Thesis Topic Description)~~
 
 Nov 30 
 - Uploaded the thesis registration form
