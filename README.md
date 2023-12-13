@@ -5,11 +5,14 @@ A place to keep material/studies/resources for my thesis. Will share the updates
 ### 📆 Updates
 
 Oct 26 
-- The request is still being processed (Thesis Topic Description)
+- ✔️ The request is still being processed (Thesis Topic Description)
 
 Nov 30 
 - Uploaded the thesis registration form
 - Proposed title: **P2P Cooperative System to combat double spending with Lattice-based blind signatures**
+
+Dec 13
+- 🍀 The Thesis Topic Description request was approved! 
 
 ### Proposed Thesis Synopsis
 
