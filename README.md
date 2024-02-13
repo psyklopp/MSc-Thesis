@@ -24,7 +24,7 @@ A study by VISA [3] tackles double spending in offline transaction by leveraging
 
 [1] Combating Double-Spending Using Cooperative P2P Systems -https://people.cs.ksu.edu/~eyv/papers/ecash-icdcs07.pdf
 [2] Bitcoin and Beyond: A Technical Survey on Decentralized Digital Currencies - https://eprint.iacr.org/2015/464.pdf
-[3] Towards a Two-Tier Hierarchical Infrastructure: An Online Payment System for Central Bank Digital Currencies -https://arxiv.org/pdf/2012.08003.pd
+[3] Towards a Two-Tier Hierarchical Infrastructure: An Online Payment System for Central Bank Digital Currencies -https://arxiv.org/pdf/2012.08003.pdf
 
 ### ⚡ To-do list/Tasks
 
