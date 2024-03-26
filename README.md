@@ -14,6 +14,10 @@ Nov 30
 Dec 13
 - 🍀 The Thesis Topic Description request was approved! 
 
+Mar 26, 2024
+- ✍️ Broad categories are Digital Signatures, Blind Signatures, Lattice-based Signatures followed by the solution I want to implement.
+- 😅 Have to step up the game
+- 
 ### Proposed Thesis Synopsis
 
 Central bank digital currency (CBDC) is money that a country's central bank can issue. It is also referred to as e-cash. One of the major problems with e-cash is double-spending or double-use. As compared to users connected to an online trusted-third-party, offline users cannot verify if e-cash is already spent or not. More specifically, in a buyer-merchant setting, it is difficult to detect double-spending of a payment if a bank/broker service is not available.
