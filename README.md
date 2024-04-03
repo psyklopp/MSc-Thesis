@@ -17,6 +17,10 @@ Dec 13
 Mar 26, 2024
 - ✍️ Broad categories are Digital Signatures, Blind Signatures, Lattice-based Signatures followed by the solution I want to implement.
 - 😅 Have to step up the game
+
+Apr 03, 2024
+- Work on the text for ROS problem
+- Finish the first two sections this week -  Digital Signatures and Blind Signatures
   
 ### Proposed Thesis Synopsis
 
