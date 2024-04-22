@@ -21,6 +21,10 @@ Mar 26, 2024
 Apr 03, 2024
 - Work on the text for ROS problem
 - Finish the first two sections this week -  Digital Signatures and Blind Signatures
+
+Apr 22, 2024
+- I should be working on writing the thesis now ✍️ on it!
+- Should be completed with the major text by end of May
   
 ### Proposed Thesis Synopsis
 
