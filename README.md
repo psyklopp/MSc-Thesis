@@ -46,3 +46,7 @@ A study by VISA [3] tackles double spending in offline transaction by leveraging
 - How you can fit them into the original paper
 - Security analysis
 - How to use TEE/TPM to protect against Sybil attack - [TPM - Microsoft](https://learn.microsoft.com/en-us/windows/security/hardware-security/tpm/trusted-platform-module-overview)
+
+### Good resources
+
+- [Shortest Independent Vector Problem](https://www.di.ens.fr/~mabdalla/2-12-1/Course-2-12-1-Lecture10.pdf)
