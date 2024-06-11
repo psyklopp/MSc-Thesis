@@ -25,6 +25,9 @@ Apr 03, 2024
 Apr 22, 2024
 - I should be working on writing the thesis now ✍️ on it!
 - Should be completed with the major text by end of May
+
+June 11, 2024
+- Preparing for the presentation!📺
   
 ### Proposed Thesis Synopsis
 
