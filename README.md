@@ -28,6 +28,9 @@ Apr 22, 2024
 
 June 11, 2024
 - Preparing for the presentation!📺
+
+June 28, 2024
+- Completed the thesis defense succesfully! 🎂
   
 ### Proposed Thesis Synopsis
 
